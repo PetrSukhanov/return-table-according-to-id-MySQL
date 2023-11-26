@@ -1,4 +1,4 @@
-bot = telebot.TeleBot('6938849355:AAG3pB88polt47lRopmc_Fg_Tak0_3v3NHo')
+bot = telebot.TeleBot(' ')
 
 mydb = mysql.connector.connect(
     host="localhost",
